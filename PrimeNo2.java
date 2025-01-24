@@ -1,8 +1,6 @@
 
 public class PrimeNo2 {
-
 	public static void main(String[] args) {
-		
 		for(int  i=1,k=0;i<=100;i++) {
 			int num =i;
 			int counter=0;
@@ -22,3 +20,4 @@ public class PrimeNo2 {
 	}
 
 }
+              
